@@ -1,1 +1,1 @@
-release: heroku ps:scale web=3
+release: heroku ps:scale web=0

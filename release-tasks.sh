@@ -1,9 +1,9 @@
-curl -n -X PATCH https://api.heroku.com/apps/$sleepy-reaches-65865/formation \
+curl -n -X PATCH https://api.heroku.com/apps/sleepy-reaches-65865/formation \
   -d '{
   "updates": [
     {
       "quantity": 1,
-      "size": "hobby",
+      "size": "standard-1X",
       "type": "web"
     }
   ]

@@ -1,1 +1,1 @@
-release: heroku ps:scale web=2
+release: bash ls

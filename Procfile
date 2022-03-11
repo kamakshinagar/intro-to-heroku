@@ -1,1 +1,1 @@
-release: npm install -g heroku
+release: -ls
